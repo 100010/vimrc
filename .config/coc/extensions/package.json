@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "coc-go": ">=0.13.3",
+    "coc-solargraph": ">=1.2.0",
+    "coc-tsserver": ">=1.6.8",
+    "coc-vetur": ">=1.2.4"
+  }
+}
