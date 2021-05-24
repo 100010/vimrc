@@ -1,5 +1,5 @@
 # ===== Language servers settings =====
-[[plugins]]
+plugins]]
 repo = 'neoclide/coc.nvim'
 merged = 0
 rev = 'release'
@@ -8,6 +8,7 @@ hook_add = '''
 " Use K to show documentation in preview window
 nmap <silent> gd :call <SID>show_documentation()<CR>
 nmap <silent> gy <Plug>(coc-type-definition)
+nmap <silent> gt <Plug>(coc-definition)
 nmap <silent> gi <Plug>(coc-implementation)
 nmap <silent> gr <Plug>(coc-references)
 function! s:show_documentation()
