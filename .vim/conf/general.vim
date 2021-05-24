@@ -38,7 +38,7 @@ xmap ga <Plug>(EasyAlign)
 nmap ga <Plug>(EasyAlign)
 
 "" color schema
-colorscheme onedark
+colorscheme codedark
 "" nerdtree
 let g:NERDTreeChDirMode=2
 let g:NERDTreeIgnore=['\.rb $', '\~$', '\.pyc$', '\.db$', '\.sqlite$', '__pycache__']

@@ -72,8 +72,11 @@ repo = 'vim-airline/vim-airline'
 repo = 'vim-airline/vim-airline-themes'
 
 # Theme
+# [[plugins]]
+# repo = 'joshdick/onedark.vim'
 [[plugins]]
-repo = 'joshdick/onedark.vim'
+repo = 'tomasiser/vim-code-dark'
+
 
 [[plugins]]
 repo = 'posva/vim-vue'
