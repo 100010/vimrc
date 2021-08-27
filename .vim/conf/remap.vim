@@ -18,7 +18,7 @@ noremap <silent> <C-j> <c-w>j
 "" Fastest way to move buffer
 nnoremap <silent> <S-j> :bprev<CR>
 nnoremap <silent> <S-k> :bnext<CR>
-nnoremap <silent> <S-w> :BD<CR>
+nnoremap <silent> <S-w> :bw<CR>
 "" open file/buffers search tab
 nnoremap <Leader>t :GFiles --cached --others<CR>
 nnoremap <Leader>b :Buffers<CR>
