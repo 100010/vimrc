@@ -22,6 +22,9 @@ repo = 'mxw/vim-jsx'
 
 [[plugins]]
 repo = 'maxmellon/vim-jsx-pretty'
+
+[[plugins]]
+repo = 'hashivim/vim-terraform'
 # Tools
 [[plugins]]
 repo = 'scrooloose/nerdtree'
@@ -72,12 +75,10 @@ repo = 'vim-airline/vim-airline'
 repo = 'vim-airline/vim-airline-themes'
 
 # Theme
-# [[plugins]]
-# repo = 'joshdick/onedark.vim'
 [[plugins]]
 repo = 'tomasiser/vim-code-dark'
 
-
+# js/ts
 [[plugins]]
 repo = 'posva/vim-vue'
 
@@ -86,6 +87,3 @@ repo = 'leafgarland/typescript-vim'
 
 [[plugins]]
 repo = 'peitalin/vim-jsx-typescript'
-
-[[plugins]]
-repo = 'qpkorr/vim-bufkill'
