@@ -87,3 +87,7 @@ repo = 'leafgarland/typescript-vim'
 
 [[plugins]]
 repo = 'peitalin/vim-jsx-typescript'
+
+# kill buffer
+[[plugins]]
+repo = 'qpkorr/vim-bufkill'
