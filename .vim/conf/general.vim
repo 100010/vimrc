@@ -78,6 +78,7 @@ let g:vim_jsx_pretty_highlight_close_tag = 1
 "" autocmd
 autocmd BufWritePre * :FixWhitespace
 autocmd BufWritePre .scala :SortScalaImports
+autocmd BufWritePre * :UnusedImports
 
 "" scala
 au BufRead,BufNewFile *.sbt set filetype=scala

@@ -9,6 +9,9 @@ repo = 'w0rp/ale'
 repo = 'derekwyatt/vim-scala'
 
 [[plugins]]
+repo = 'akhaku/vim-java-unused-imports'
+
+[[plugins]]
 repo = 'tasn/vim-tsx'
 
 [[plugins]]
